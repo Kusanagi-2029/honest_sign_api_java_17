@@ -17,6 +17,7 @@
 <a name="1"><h2>Стек</h2></a>
 
 - Java 17.
+- Gradle - для сборки и управления зависимостями.
 - Библиотека HTTP-клиента для выполнения запросов `java.net.http.HttpClient`.
 - Библиотека для сериализации JSON `com.fasterxml.jackson.databind.ObjectMapper`.
 - `JavaDoc` - для документации кода.
